@@ -21,7 +21,8 @@ You will need to use this through the terminal and by using node.js
 ## Testing
 
 ### Video Link inserted here:
-[Demo Video- compressed](assets/video/README%20Challenge%209%20-%20Karen%20Peazzoni-%20smaller%20file.mov)
+https://drive.google.com/file/d/1OZyD4fihayZDIwGISM9AdRB_56NzzjHs/view?usp=sharing
+
 
 ## Screenshots
 ![Alt text](assets/images/Screen%20Shot%202023-01-22%20at%208.55.51%20PM.png)
