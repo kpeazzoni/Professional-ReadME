@@ -1,46 +1,55 @@
-# The Pint Planner
+# Pint Planner
  <img src="https://img.shields.io/badge/license-MIT License-blue.svg" alt="GitHub License">
 
   ## Description
-  This application will help you find a brewery in the Austin area and a restaurant located around the brewery you choose to go to.   
+  Brewery Finder / Restaurant locator  
   
   
   ## Table of Contents  
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Test](#testing)
-  * [Credits](#credits)
+  * [Testing](#testing)
   * [Contributing](#contributing)
   * [Misc](#misc)
+  * [Credits](#credits)
   * [Questions](#questions)
   
   * [License](#license)
   
   ## Installation
-  How do you install this application? 
-  https://cameliabenavides10.github.io/pintplanner/
+  How do you install this application?m
+  go to the website
 
-  ## Usagese
-  How do you use this application? 
-  on your phone or laptop
+  ## Usage
+  How do you use this application?
+
+  follow the prompts
 
   ##Testing
   How do you test this application?
-  by following the prompts
+
+  testing is not valid at this stage
 
   ##Contributing
   How can someone contribute to this application?
+
   initiate a pull request
 
-  ##Questions
+  ##Misc
   Who wrote the application?
+
   Karen Peazzoni
   What is the GitHub username?
+
   kpeazzoni
   What is your email?
+
   kpeazzoni@gmail.com
+
+  ##Credits
   List the people who contributed to your project:
-  Camelia, Michael, Ruben
+
+  Reuben, Michael, Camelia
 
 
   ## License
