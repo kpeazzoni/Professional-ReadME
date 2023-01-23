@@ -2,7 +2,7 @@
   
 
   ## Description
-  demo  
+  demo of validation & choosing none for license  
   
   
   ## Table of Contents  
@@ -18,22 +18,22 @@
   
   ## Installation
   ### How do you install this application?m
-  karen
+  demo
 
   ## Usage
   ### How do you use this application?
 
-  karen
+  demo
 
   ## Testing
   ### How do you test this application?
 
-  not teting
+  demo
 
   ## Contributing
   ### How can someone contribute to this application?
 
-  l
+  demo
 
   ## Misc
   ### Who wrote the application?
@@ -41,20 +41,20 @@
   Karen
   ### What is the GitHub username?
 
-  kpeazzoni
+  kpeazzoni@gmail.com
   ### What is your email?
 
-  kpeazzoni@gmail.com
+  oope- kpezzoni@gmail.com
 
   ## Credits
   ### List the people who contributed to your project:
 
-  karen
+  no one
 
 
    
 
   ## Questions
-  If you have any questions about this application, email me at kpeazzoni@gmail.com.
-  If you want to see more of my work, visit my GitHub page at [kpeazzoni](https://github.com/kpeazzoni)
+  If you have any questions about this application, email me at oope- kpezzoni@gmail.com.
+  If you want to see more of my work, visit my GitHub page at [kpeazzoni@gmail.com](https://github.com/kpeazzoni@gmail.com)
 
