@@ -76,7 +76,7 @@ const questions = [
         {
             type: 'input',
             name: 'credit',
-            message: 'List the people who help to contribute to your project directly or indirectly',
+            message: 'List the people who contributed to your project directly or indirectly',
         },
     ];
 
