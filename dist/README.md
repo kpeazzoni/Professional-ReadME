@@ -1,8 +1,8 @@
-# Pint Planner
+# karen
  <img src="https://img.shields.io/badge/license-MIT License-blue.svg" alt="GitHub License">
 
   ## Description
-  Brewery Finder / Restaurant locator  
+  karen  
   
   
   ## Table of Contents  
@@ -17,45 +17,45 @@
   * [License](#license)
   
   ## Installation
-  How do you install this application?m
-  go to the website
+  ### How do you install this application?m
+  karen
 
   ## Usage
-  How do you use this application?
+  ### How do you use this application?
 
-  follow the prompts
+  karen
 
-  ##Testing
-  How do you test this application?
+  ## Testing
+  ### How do you test this application?
 
-  testing is not valid at this stage
+  karen
 
-  ##Contributing
-  How can someone contribute to this application?
+  ## Contributing
+  ### How can someone contribute to this application?
 
-  initiate a pull request
+  karen
 
-  ##Misc
-  Who wrote the application?
+  ## Misc
+  ### Who wrote the application?
 
-  Karen Peazzoni
-  What is the GitHub username?
+  karen
+  ### What is the GitHub username?
 
-  kpeazzoni
-  What is your email?
+  karen
+  ### What is your email?
 
-  kpeazzoni@gmail.com
+  karen
 
-  ##Credits
-  List the people who contributed to your project:
+  ## Credits
+  ### List the people who contributed to your project:
 
-  Reuben, Michael, Camelia
+  karen
 
 
   ## License
 This project is licensed under the: MIT License license.
 
   ## Questions
-  If you have any questions about this application, email me at kpeazzoni@gmail.com.
-  If you want to see more of my work, visit my GitHub page at [kpeazzoni](https://github.com/kpeazzoni)
+  If you have any questions about this application, email me at karen.
+  If you want to see more of my work, visit my GitHub page at [karen](https://github.com/karen)
 

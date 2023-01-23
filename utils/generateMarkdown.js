@@ -46,31 +46,31 @@ function generateMarkdown(data) {
   ${renderLicenseLink(data.license)}
   
   ## Installation
-  How do you install this application?\m
+  ### How do you install this application?\m
   ${data.installation}
 
   ## Usage
-  ###How do you use this application?\n
+  ### How do you use this application?\n
   ${data.usage}
 
-  ##Testing
-  ###How do you test this application?\n
+  ## Testing
+  ### How do you test this application?\n
   ${data.testing}
 
-  ##Contributing
-  ###How can someone contribute to this application?\n
+  ## Contributing
+  ### How can someone contribute to this application?\n
   ${data.contributing}
 
-  ##Misc
-  ###Who wrote the application?\n
+  ## Misc
+  ### Who wrote the application?\n
   ${data.author}
-  ###What is the GitHub username?\n
+  ### What is the GitHub username?\n
   ${data.username}
-  ###What is your email?\n
+  ### What is your email?\n
   ${data.email}
 
-  ##Credits
-  ###List the people who contributed to your project:\n
+  ## Credits
+  ### List the people who contributed to your project:\n
   ${data.credit}
 
 
