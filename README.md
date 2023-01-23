@@ -21,7 +21,6 @@ You will need to use this through the terminal and by using node.js
 ## Testing
 
 ### Video Link inserted here:
-[Demo Video- large file](assets/video/README%20Challenge%209%20-%20Karen%20Peazzoni.mov)
 [Demo Video- compressed](assets/video/README%20Challenge%209%20-%20Karen%20Peazzoni-%20smaller%20file.mov)
 
 ## Screenshots
