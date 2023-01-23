@@ -10,7 +10,6 @@ User will answer a list of quesitons about the project / application they have c
   * [Testing](#testing)
   * [Screenshots](#screenshots)
   * [Credits](#credits)
-  * [Questions](#questions)
 
 ## Features
 Using node.js & the library Inquirer, user will answer prompted questions and a README file will generate. 
