@@ -46,7 +46,7 @@ function generateMarkdown(data) {
   ${renderLicenseLink(data.license)}
   
   ## Installation
-  ### How do you install this application?\m
+  ### How do you install this application?\n
   ${data.installation}
 
   ## Usage
