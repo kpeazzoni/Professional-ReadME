@@ -1,8 +1,8 @@
-# This is a demo of the README title
- <img src="https://img.shields.io/badge/license-MIT License-blue.svg" alt="GitHub License">
+# Demo of project
+  
 
   ## Description
-  I used node.js and the library inquirer to create this application.  
+  this is a demo choose "None" as the license option  
   
   
   ## Table of Contents  
@@ -14,7 +14,7 @@
   * [Credits](#credits)
   * [Questions](#questions)
   
-  * [License](#license)
+   
   
   ## Installation
   ### How do you install this application?m
@@ -23,17 +23,17 @@
   ## Usage
   ### How do you use this application?
 
-  https://www.npmjs.com/package/inquirer#questions
+  terminal and node.js
 
   ## Testing
   ### How do you test this application?
 
-  I am not testing at this time
+  not testing
 
   ## Contributing
   ### How can someone contribute to this application?
 
-  initiate a pull request through GitHub
+  GitHub
 
   ## Misc
   ### Who wrote the application?
@@ -49,11 +49,10 @@
   ## Credits
   ### List the people who contributed to your project:
 
-  None. 
+  No one
 
 
-  ## License
-This project is licensed under the: MIT License license.
+   
 
   ## Questions
   If you have any questions about this application, email me at kpeazzoni@gmail.com.

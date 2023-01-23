@@ -21,7 +21,7 @@ You will need to use this through the terminal and by using node.js
 ## Testing
 
 ### Video Link inserted here:
-
+[Demo Video](assets/video/README%20Challenge%209%20-%20Karen%20Peazzoni.mov)
 
 ## Screenshots
 ![Alt text](assets/images/Screen%20Shot%202023-01-22%20at%208.55.51%20PM.png)
