@@ -1,8 +1,8 @@
-# Demo of project
+# demo
   
 
   ## Description
-  this is a demo choose "None" as the license option  
+  demo  
   
   
   ## Table of Contents  
@@ -18,27 +18,27 @@
   
   ## Installation
   ### How do you install this application?m
-  npm i inquirer
+  karen
 
   ## Usage
   ### How do you use this application?
 
-  terminal and node.js
+  karen
 
   ## Testing
   ### How do you test this application?
 
-  not testing
+  not teting
 
   ## Contributing
   ### How can someone contribute to this application?
 
-  GitHub
+  l
 
   ## Misc
   ### Who wrote the application?
 
-  Karen Peazzoni
+  Karen
   ### What is the GitHub username?
 
   kpeazzoni
@@ -49,7 +49,7 @@
   ## Credits
   ### List the people who contributed to your project:
 
-  No one
+  karen
 
 
    
